@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0579/y/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寶積經講記
+  edition:
+    short: 'y'
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y02/Y02n0002.xml
+    old_id: Y02n0002
+hash: sha256:b5215ff79bb698970e683bc09e602b5336795a8f3bea02fb6e70007cc2905575
