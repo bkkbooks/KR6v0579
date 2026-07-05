@@ -19,9 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0579_000.yaml, hash: 'sha256:b5215ff79bb698970e683bc09e602b5336795a8f3bea02fb6e70007cc2905575'}
-  - {seq: 1, filename: KR6v0579_001.yaml, hash: 'sha256:3a0a84d63cb9adf02eaadab2d20ed4ebb619b4f68a7754577aa13d7c9b65c517'}
+  - {seq: 1, filename: KR6v0579_001.yaml, hash: 'sha256:6d4445f76449d6ed9a807ec088b6e582d274b907b5a1b86c8a7cf6e96ab09c7a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0579_001.markers.yaml, hash: 'sha256:f070543a95b97e194965153b3a05b19c968fb24e94de492cab79b936269a34d2'}
+  - {seq: 0, role: markers, filename: assets/KR6v0579_000.markers.yaml, hash: 'sha256:bc40b65f2f09914e9b4bb52438687f205e9ca4c1c7ac10a2078e5f9af8092817'}
+  - {seq: 1, role: markers, filename: assets/KR6v0579_001.markers.yaml, hash: 'sha256:468f6b3dc313503376651910562067b9246f69f91735a0784cbca06b88d69260'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1633,7 +1634,4 @@ table_of_contents:
   label: 乙二　時眾奉行
   type: mulu
   level: 1
-hash: sha256:f0dbc1cdd06161d0150e8a435dfe8adab838f255a3e68047f647a5c91d28f4e3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4394132272bea36902ed7eb31a25d67f612d57102b1a34eb25d0717c3af382b8
