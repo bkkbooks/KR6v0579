@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0579/v1
 canonical_location: https://kanripo.org/bkk/KR6v0579/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 寶積經講記
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0579_000.yaml, hash: 'sha256:b5215ff79bb698970e683bc09e602b5336795a8f3bea02fb6e70007cc2905575'}
-  - {seq: 1, filename: KR6v0579_001.yaml, hash: 'sha256:6d4445f76449d6ed9a807ec088b6e582d274b907b5a1b86c8a7cf6e96ab09c7a'}
+  - {seq: 1, filename: KR6v0579_001.yaml, hash: 'sha256:b67eadf226d4383b9c6fcf1fc6b2bd8ebe9722a962ac13b617a6816c69d3d713'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0579_000.markers.yaml, hash: 'sha256:bc40b65f2f09914e9b4bb52438687f205e9ca4c1c7ac10a2078e5f9af8092817'}
-  - {seq: 1, role: markers, filename: assets/KR6v0579_001.markers.yaml, hash: 'sha256:468f6b3dc313503376651910562067b9246f69f91735a0784cbca06b88d69260'}
+  - {seq: 1, role: markers, filename: assets/KR6v0579_001.markers.yaml, hash: 'sha256:b77b2dfaeb50280f1cd1e8840af8cc9dc9c83afce63a221ea977c393b4331216'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1634,4 +1634,7 @@ table_of_contents:
   label: 乙二　時眾奉行
   type: mulu
   level: 1
-hash: sha256:4394132272bea36902ed7eb31a25d67f612d57102b1a34eb25d0717c3af382b8
+hash: sha256:9f23f2cb873bd8f0be630ff86cc5879c1cd3ef56ab7b1d7a28552eb54eeffe73
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
